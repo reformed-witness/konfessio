@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/1695_baptist_catechism.json</file>
+        <file>data/abstract_of_principles.json</file>
+        <file>data/apostles_creed.json</file>
+        <file>data/athanasian_creed.json</file>
+        <file>data/belgic_confession_of_faith.json</file>
+        <file>data/canons_of_dort.json</file>
+        <file>data/catechism_for_young_children.json</file>
+        <file>data/chalcedonian_definition.json</file>
+        <file>data/chicago_statement_on_biblical_inerrancy.json</file>
+        <file>data/christ_hymn_of_colossians.json</file>
+        <file>data/christ_hymn_of_philippians.json</file>
+        <file>data/christian_shema.json</file>
+        <file>data/confession_of_peter.json</file>
+        <file>data/consensus_tigurinus.json</file>
+        <file>data/council_of_orange.json</file>
+        <file>data/exposition_of_the_assemblies_catechism.json</file>
+        <file>data/first_confession_of_basel.json</file>
+        <file>data/first_helvetic_confession.json</file>
+        <file>data/french_confession_of_faith.json</file>
+        <file>data/gregorys_declaration_of_faith.json</file>
+        <file>data/heidelberg_catechism.json</file>
+        <file>data/helvetic_consensus.json</file>
+        <file>data/ignatius_creed.json</file>
+        <file>data/irenaeus_rule_of_faith.json</file>
+        <file>data/keachs_catechism.json</file>
+        <file>data/london_baptist_1689.json</file>
+        <file>data/matthew_henrys_scripture_catechism.json</file>
+        <file>data/nicene_creed.json</file>
+        <file>data/puritan_catechism.json</file>
+        <file>data/savoy_declaration.json</file>
+        <file>data/scots_confession.json</file>
+        <file>data/second_helvetic_confession.json</file>
+        <file>data/shema_yisrael.json</file>
+        <file>data/shorter_catechism_explained.json</file>
+        <file>data/ten_theses_of_berne.json</file>
+        <file>data/tertullians_rule_of_faith.json</file>
+        <file>data/tetrapolitan_confession.json</file>
+        <file>data/waldensian_confession.json</file>
+        <file>data/westminster_confession_of_faith.json</file>
+        <file>data/westminster_larger_catechism.json</file>
+        <file>data/westminster_shorter_catechism.json</file>
+        <file>data/zwinglis_67_articles.json</file>
+        <file>data/zwinglis_fidei_ratio.json</file>
+    </qresource>
+</RCC>
