@@ -1,0 +1,29 @@
+[Desktop Entry]
+Name=Konfessio
+Name[ca]=Konfessio
+Name[cs]=Konfessio
+Name[eo]=Konfessio
+Name[es]=Konfessio
+Name[fr]=Konfessio
+Name[it]=Konfessio
+Name[nl]=Konfessio
+Name[pt_BR]=Konfessio
+Name[sl]=Konfessio
+Name[sv]=Konfessio
+Name[tr]=Konfessio
+Name[uk]=Konfessio
+Name[zh_TW]=Konfessio
+
+Comment=Browser for Christian creeds and confessions
+Comment[es]=Navegador de credos y confesiones cristianas
+Comment[fr]=Navigateur de confessions et de credos chrétiens
+Comment[it]=Browser di credi e confessioni cristiane
+Comment[pt_BR]=Navegador de credos e confissões cristãs
+Comment[de]=Browser für christliche Glaubensbekenntnisse und Konfessionen
+
+Exec=konfessio
+Icon=net.reformedwitness.konfessio
+Type=Application
+Terminal=false
+StartupNotify=true
+Categories=Education;Qt;KDE;

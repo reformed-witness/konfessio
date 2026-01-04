@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>net.reformedwitness.konfessio</id>
+  
+  <name>Konfessio</name>
+  <summary>Browser for Christian creeds and confessions</summary>
+  
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      Konfessio is a desktop application that allows you to browse and read various Christian creeds, confessions, and catechisms. It provides a simple and intuitive interface for studying and comparing these historical documents.
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">net.reformedwitness.konfessio.desktop</launchable>
+  
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main window showing a confession</caption>
+      <image>https://raw.githubusercontent.com/reformed-witness/konfessio/master/screenshots/screenshot1.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Chapter selection</caption>
+      <image>https://raw.githubusercontent.com/reformed-witness/konfessio/master/screenshots/screenshot2.png</image>
+    </screenshot>
+  </screenshots>
+  
+  <releases>
+    <release version="1.0.0" date="2026-01-03">
+      <description>
+        <p>Initial release of Konfessio.</p>
+      </description>
+    </release>
+  </releases>
+  
+  <content_rating type="oars-1.1" />
+  
+  <developer_name>Reformed Witness</developer_name>
+  
+  <url type="homepage">https://github.com/reformed-witness/konfessio</url>
+  <url type="bugtracker">https://github.com/reformed-witness/konfessio/issues</url>
+  <url type="donation">https://github.com/sponsors/reformed-witness</url>
+  
+</component>
